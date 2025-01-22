@@ -1,4 +1,19 @@
 # Presentia-shop
+🛍️ Presentia Store
+Welcome to Presentia Store! This project showcases an e-commerce platform featuring a modern design and seamless user experience.
+
+👨‍💻 About the Team
+---
+
+Hasan Mansour: Scrum Master
+Ahmad Tarawnah: Product Owner
+Ghofran Hijazi: Developer
+Rami Abdelhamid: Developer
+Belal Kahaleh: QA Specialist
+
+---
+
+📄 Pages
 Home Page
 Shop
 Product Details
